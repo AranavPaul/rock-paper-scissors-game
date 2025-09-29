@@ -16,21 +16,3 @@ A simple, fun command-line Rock, Paper, Scissors game written in Python. Play ag
     ```bash
     python game.py
     ```
-
-## Demo
-Here is what it looks like to play the game in the terminal:
-
----Choose from Paper, Scissor, Rock---
- _______
-|.-----.|
-||     ||
-||_____/|
-| .     |
-|-|-  oo|
-|  _ _  |
-|       /
-`""""""`
-Enter your move: Rock
-User's choice Rock
-Computer's choice Paper
-Computer wins
